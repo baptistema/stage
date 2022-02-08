@@ -1,3 +1,6 @@
-.salutations {
+.debut {
   color: red;
 } /*couleur du texte*/
+h1 {
+  font-size: 1.3em; /* Paragraphes de 14 pixels */
+}
