@@ -39,4 +39,5 @@ mark {
 }
 body {
   background-image: url("espace.jpg");
+  background-attachment: fixed;
 }
