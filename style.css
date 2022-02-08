@@ -61,3 +61,9 @@ a:hover {
 a:visited {
   color: lawngreen;
 }
+header {
+  color: aqua;
+}
+figcaption {
+  color: aqua;
+}
