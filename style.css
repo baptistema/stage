@@ -54,3 +54,6 @@ a:hover {
   text-decoration: overline;
   color: aqua;
 }
+a:visited {
+  color: lawngreen;
+}
