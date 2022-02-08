@@ -37,3 +37,6 @@ body {
 mark {
   background-color: gold;
 }
+body {
+  background-image: url("espace.jpg");
+}
