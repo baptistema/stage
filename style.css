@@ -45,4 +45,5 @@ p {
 }
 h1 {
   border: 4px red groove;
+  border-radius: 4px;
 }
