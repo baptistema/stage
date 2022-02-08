@@ -76,3 +76,9 @@ figcaption {
 .bg {
   width: 50%;
 }
+.bg {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
