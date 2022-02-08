@@ -40,3 +40,6 @@ body {
 
   background-attachment: fixed;
 }
+p {
+  opacity: 0.6;
+}
