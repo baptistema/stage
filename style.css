@@ -43,3 +43,6 @@ body {
 p {
   opacity: 0.6;
 }
+h1 {
+  border: 4px red groove;
+}
