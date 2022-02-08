@@ -67,9 +67,9 @@ header {
 figcaption {
   color: aqua;
 }
-section {
+.leslois {
   background-color: white;
 }
-.lesregles {
+.lesregle {
   background-color: white;
 }
