@@ -4,3 +4,6 @@
 h1 {
   font-size: 1.3em; /* Paragraphes de 14 pixels */
 }
+p {
+  font-family: impact, "Arial Black", Arial, Verdana, sans-serif;
+}
