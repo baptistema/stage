@@ -36,9 +36,7 @@ mark {
   background-color: gold;
 }
 body {
-  background-image: url("espace.jpg");
+  background-image: url(espace.jpg);
+
   background-attachment: fixed;
-  p {
-    opacity: 0.6;
-  
 }
