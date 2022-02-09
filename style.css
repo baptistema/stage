@@ -108,9 +108,10 @@ header {
   background-color: blue;
   margin-left: 600px;
 }
-.op {
-  text-align: center;
-}
+
 h1 {
   background-color: blue;
+}
+.op {
+  font-size: 13px;
 }
