@@ -97,10 +97,10 @@ header {
   font-size: 30px;
 }
 .bf {
-  text-align: right center;
+  text-align: right;
   height: 200px;
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
   width: 50%;
   background-color: white;
