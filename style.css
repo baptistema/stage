@@ -100,8 +100,8 @@ header {
   text-align: right;
   height: 200px;
   display: flex;
-  align-items: right;
-  justify-content: center;
+  align-items: center;
+  justify-content: right;
   width: 50%;
   background-color: white;
 }
