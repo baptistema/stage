@@ -97,5 +97,10 @@ header {
   font-size: 30px;
 }
 .bf {
-  text-align: left;
+  text-align: right;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
 }
