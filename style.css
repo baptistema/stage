@@ -98,4 +98,8 @@ header {
 }
 .bf {
   text-align: right center;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
